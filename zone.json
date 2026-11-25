@@ -1,0 +1,5 @@
+{
+  "www.example.com": {"ip": "93.184.216.34", "ttl": 30},
+  "mail.example.com": {"ip": "93.184.216.35", "ttl": 30},
+  "lab.pes.edu": {"ip": "10.10.1.5", "ttl": 60}
+}
